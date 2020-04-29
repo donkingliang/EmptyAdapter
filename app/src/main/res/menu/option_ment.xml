@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ll_manager"
+        android:orderInCategory="100"
+        android:title="LinearLayoutManager" />
+
+    <item
+        android:id="@+id/gl_manager"
+        android:orderInCategory="100"
+        android:title="GridLayoutManager" />
+
+    <item
+        android:id="@+id/clear"
+        android:orderInCategory="100"
+        android:title="Clear" />
+</menu>
